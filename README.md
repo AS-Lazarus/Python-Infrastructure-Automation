@@ -1,2 +1,2 @@
-# Python-Network-Automation
-Python scripts for network and security automation, log analysis, and configuration auditing.
+# Python-Network-Automatin
+Ths is a collection of Python scripts I developed to automate system log analysi, monitor network health and simplify repetitive infrastructure tasks and configuration auditing..
